@@ -16,5 +16,6 @@ public class AmbitiousKid{
             }
         }
         System.out.println(min);
+        sc.close();
     }
 }

@@ -30,5 +30,6 @@ public class DoremyPaint3{
                     System.out.println("NO");
             }
         }
+        sc.close();
     } 
 }

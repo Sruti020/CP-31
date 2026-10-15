@@ -16,5 +16,6 @@ public class TargetPractice{
             }
             System.out.println(total);
         }
+        sc.close();
     }
 }

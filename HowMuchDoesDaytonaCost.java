@@ -24,5 +24,6 @@ public class HowMuchDoesDaytonaCost{
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }

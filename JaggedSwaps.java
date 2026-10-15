@@ -16,5 +16,6 @@ public class JaggedSwaps{
             }
 
         }
+        sc.close();
     }
 }

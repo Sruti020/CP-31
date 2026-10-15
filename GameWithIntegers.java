@@ -12,5 +12,6 @@ public class GameWithIntegers{
                 System.out.println("First");
             }
         }
+        sc.close();
     }
 }
